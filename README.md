@@ -9,5 +9,4 @@
 👉  CSS  
 👉  JavaScript
 ## Preview
-![enter image description here](https://i.ibb.co/fHm4XCR/ozcanbodurlength.jpg)
-
+![enter image description here](https://i.ibb.co/vk2ZcJ5/ozcanbodurlength.jpg)
